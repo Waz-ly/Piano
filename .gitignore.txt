@@ -1,0 +1,15 @@
+# KiCad working files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*-bak
+*-backups/
+_autosave-*
+
+# ERC and DRC output files
+*.rpt
+
+# Manufacture files (Gerbers, drill files, etc. optional but recommended to ignore)
+*.gbr
+*.drl
+*.pos
